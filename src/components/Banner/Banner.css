@@ -1,0 +1,58 @@
+
+.Isrotate {
+    flex-direction: row-reverse;
+    background-color: white;
+    height: 100vh;
+    color: #1C2237;
+}
+
+.Isrotate .Text {
+    width: 80%;
+    margin-right: 60px;
+    
+}
+
+.Isrotate .para {
+    color: #4B59F7;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.Isrotate p {
+   color: #1C2237;
+   font-size: 18px;
+}
+
+.Isrotate h1 {
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 50px;
+    width: 500px;
+}
+
+.Isrotate button {
+    background-color: rgb(4, 103, 251);
+    color: white;
+}
+
+.Isrotate img {
+    max-width: 100%;
+max-height: 500px;
+}
+
+.Isrotate1 {
+    flex-direction: row-reverse;
+    height: 100vh;
+}
+
+.Isrotate1 h1 {
+      font-size: 48px;
+    font-weight: bold;
+    line-height: 50px;
+    width: 500px;
+}
+
+.Isrotate1 button {
+    background: rgb(75, 89, 247);
+    color: white;
+}

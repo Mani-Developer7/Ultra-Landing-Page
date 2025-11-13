@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+* {
+   
+    font-family: main;
+}
+
+@font-face {
+    font-family: main;
+    src: url('/assets/Fonts/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2');
+}
